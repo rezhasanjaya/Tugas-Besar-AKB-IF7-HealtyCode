@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "334971463045",
+    "firebase_url": "https://tugasbesarakb-healtycode-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugasbesarakb-healtycode",
+    "storage_bucket": "tugasbesarakb-healtycode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334971463045:android:b38c2a0f3ad0981bbf50ec",
+        "android_client_info": {
+          "package_name": "com.example.akb_healtycode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334971463045-lsjjbqic2kkrv1kj4888ql7snvbliufe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YAj2U12B6Z9E_DlonHvinG0bPUnEvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334971463045-lsjjbqic2kkrv1kj4888ql7snvbliufe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334971463045:android:be12207c66974c27bf50ec",
+        "android_client_info": {
+          "package_name": "com.example.tugasbesarakb_kelompokhealtycode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334971463045-lsjjbqic2kkrv1kj4888ql7snvbliufe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YAj2U12B6Z9E_DlonHvinG0bPUnEvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334971463045-lsjjbqic2kkrv1kj4888ql7snvbliufe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

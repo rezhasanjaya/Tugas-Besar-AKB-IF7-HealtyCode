@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Rezha Satria SP
+10119281
+IF7
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/wisata"
+        android:icon="@drawable/ic_baseline_article_24"
+        android:title="Tempat Wisata"/>
+
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Maps"/>
+
+    <item
+        android:id="@+id/team"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Team"
+        />
+</menu>
